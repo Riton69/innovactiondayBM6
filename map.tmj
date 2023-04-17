@@ -977,6 +977,19 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":2956,
+         "image":"tilesets\/Simple pixel alphabet.png",
+         "imageheight":48,
+         "imagewidth":80,
+         "margin":0,
+         "name":"Simple pixel alphabet",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
