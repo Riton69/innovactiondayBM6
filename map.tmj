@@ -1309,11 +1309,7 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":2958,
-         "source":"Interiors_free_32x32.tsx"
-        }, 
-        {
-         "firstgid":4382,
+         "firstgid":3241,
          "source":"Room_Builder_free_32x32.tsx"
         }],
  "tilewidth":32,
