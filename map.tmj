@@ -303,6 +303,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -475,6 +480,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -647,6 +657,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -819,6 +834,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -991,6 +1011,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1163,6 +1188,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1335,6 +1365,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1507,6 +1542,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1679,6 +1719,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1851,6 +1896,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2023,6 +2073,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2195,6 +2250,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2367,6 +2427,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2539,6 +2604,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2711,6 +2781,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2883,6 +2958,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3055,6 +3135,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3227,6 +3312,11 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                                }, 
+                                {
+                                 "name":"openWebsiteTrigger",
+                                 "type":"string",
+                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3971,7 +4061,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":127,
+ "nextlayerid":128,
  "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
