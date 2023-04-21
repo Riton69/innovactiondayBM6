@@ -227,6 +227,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -308,6 +313,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -404,6 +414,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -485,6 +500,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -581,6 +601,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -662,6 +687,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -758,6 +788,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -839,6 +874,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -935,6 +975,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1016,6 +1061,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage$",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1112,6 +1162,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1193,6 +1248,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1289,6 +1349,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1370,6 +1435,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1466,6 +1536,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1547,6 +1622,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1643,6 +1723,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1724,6 +1809,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1820,6 +1910,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1901,6 +1996,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1997,6 +2097,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2078,6 +2183,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2174,6 +2284,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2255,6 +2370,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2351,6 +2471,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2432,6 +2557,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2528,6 +2658,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2609,6 +2744,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2705,6 +2845,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2786,6 +2931,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2882,6 +3032,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -2963,6 +3118,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3059,6 +3219,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3140,6 +3305,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3236,6 +3406,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer le teaser du projet"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -3317,6 +3492,11 @@
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
+                                }, 
+                                {
+                                 "name":"openWebsiteTriggerMessage",
+                                 "type":"string",
+                                 "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
