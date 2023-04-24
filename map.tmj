@@ -5236,11 +5236,11 @@
         {
          "columns":6,
          "firstgid":5237,
-         "image":"tilesets\/eml-logo.3d08bc955ea0e6f7fb4e6ed5b18a4cea.png",
+         "image":"tilesets\/emlyon.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
-         "name":"eml-logo.3d08bc955ea0e6f7fb4e6ed5b18a4cea",
+         "name":"emlyon",
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
