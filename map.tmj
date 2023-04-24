@@ -4105,7 +4105,17 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1R6AjkA-3JzyCtetsvhEsexBcdAeAjCKq\/view?usp=sharing"
+                         "value":"https:\/\/docs.google.com\/document\/d\/142V8tO1EamIl-9sAKeoH_whyufHkpKR1IafTW1yTJZ4\/edit?usp=sharing"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Appuyez sur ESPACE ou ici pour avoir plus d'informations sur BM6 et l'Innov'action Day!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
