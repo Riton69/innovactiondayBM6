@@ -4105,7 +4105,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/drive.google.com\/file\/d\/1R6AjkA-3JzyCtetsvhEsexBcdAeAjCKq\/view?usp=sharing"
                         }],
                  "type":"tilelayer",
                  "visible":true,
