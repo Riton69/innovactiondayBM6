@@ -597,7 +597,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/kisio.com"
+                         "value":"https:\/\/kisio.com\/entreprise-kisio\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
