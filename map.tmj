@@ -4349,6 +4349,17 @@
                  "id":167,
                  "name":"Teaser 16 Mai",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"A partir du 16 Mai.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":200,
@@ -5524,7 +5535,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":168,
+ "nextlayerid":170,
  "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
