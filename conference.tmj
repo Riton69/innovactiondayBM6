@@ -935,6 +935,17 @@
                  "id":73,
                  "name":"URL Vid\u00e9o Proof",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Proofmaking.mp4"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":60,
