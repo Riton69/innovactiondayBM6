@@ -411,7 +411,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"UX Design sprint.pdf"
+                         "value":"UX sprint design.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -483,6 +483,17 @@
                  "id":65,
                  "name":"URL PDF Proofmaking",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"Proofmaking.jpg"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":60,
@@ -552,7 +563,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Improbable.pdf"
+                         "value":"Improbable.jpg"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -992,7 +1003,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Def BM.pdf"
+                         "value":"Def BM.jpg"
                         }],
                  "type":"tilelayer",
                  "visible":true,
