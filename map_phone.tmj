@@ -4256,7 +4256,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Arcade.jpg"
+                         "value":"Arcade.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4343,7 +4343,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Jeu.jpg"
+                         "value":"Jeu.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -4445,7 +4445,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Bienvenue sur workadventure.jpg"
+                         "value":"Bienvenue sur workadventure.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4532,7 +4532,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"A partir du 16 Mai.jpg"
+                         "value":"A partir du 16 Mai.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4619,7 +4619,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Informations.jpg"
+                         "value":"Informations.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",

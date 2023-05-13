@@ -857,7 +857,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"UX design Sprint.jpg"
+                         "value":"UX.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -933,7 +933,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Proofmaking.jpg"
+                         "value":"Proofmaking.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1009,7 +1009,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Improbable.jpg"
+                         "value":"Improbable.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1476,7 +1476,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Photo.jpg"
+                         "value":"Photo.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1547,7 +1547,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Def BM.jpg"
+                         "value":"Def BM.pdf"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1835,7 +1835,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Merci.jpg"
+                         "value":"Merci.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
