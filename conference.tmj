@@ -340,7 +340,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/W2WdcTwt8uQ"
+                         "value":"https:\/\/www.youtube.com\/embed\/nRbzZPRZog4"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -421,7 +421,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/0ge6lRMzYeM"
+                         "value":"https:\/\/www.youtube.com\/embed\/QWwoYvp2TYA"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1314,7 +1314,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/FQBt4TFR3cM"
+                         "value":"https:\/\/www.youtube.com\/embed\/r0pNY8fJVwc"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -1395,7 +1395,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"Proofmaking.mp4"
+                         "value":"https:\/\/www.youtube.com\/embed\/DIFxnBaQ7gQ"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
