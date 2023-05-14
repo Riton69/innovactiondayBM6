@@ -333,7 +333,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                         "value":"https:\/\/em-lyon.zoom.us\/j\/6666250365"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -343,7 +343,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
+                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec les \u00e9quipes"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -430,7 +430,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                         "value":"https:\/\/em-lyon.zoom.us\/j\/95546174384"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -440,7 +440,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
+                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec les \u00e9quipes"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -527,7 +527,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                         "value":"https:\/\/em-lyon.zoom.us\/j\/94682495117"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -537,7 +537,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
+                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec les \u00e9quipes"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -624,7 +624,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                         "value":"https:\/\/em-lyon.zoom.us\/j\/95975298781"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -634,7 +634,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
+                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec les \u00e9quipes"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -721,7 +721,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                         "value":"https:\/\/zoom.us\/j\/99978657695?pwd=L1ZJQ25PclpmMW9XeVBqTXoyMS9Idz09"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -731,7 +731,7 @@
                         {
                          "name":"openWebsiteTriggerMessage$",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
+                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec les \u00e9quipes"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -818,7 +818,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/em-lyon.zoom.us\/j\/3578795206"
+                         "value":"https:\/\/em-lyon.zoom.us\/j\/95996555226"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -828,7 +828,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec l'\u00e9quipe"
+                         "value":"Appuyez sur ESPACE ou ici pour lancer un zoom avec les \u00e9quipes"
                         }],
                  "type":"tilelayer",
                  "visible":true,
