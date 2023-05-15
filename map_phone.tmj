@@ -6548,6 +6548,17 @@
                  "id":191,
                  "name":"Vote",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdL3CRhpzDHysJNUSTsVUk_PrVDUQOYoPecza4ZljRGkazveA\/viewform?embedded=true"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":200,
@@ -7707,7 +7718,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":192,
+ "nextlayerid":194,
  "nextobjectid":20,
  "orientation":"orthogonal",
  "properties":[
