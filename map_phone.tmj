@@ -1254,7 +1254,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"teaser_2.mp4"
+                                 "value":"https:\/\/www.youtube.com\/embed\/3gFu5zakFPs"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
@@ -3180,7 +3180,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"teaser_11.mp4"
+                                 "value":"https:\/\/www.youtube.com\/embed\/rVuWALITm8w"
                                 }, 
                                 {
                                  "name":"openWebsitePolicy",
