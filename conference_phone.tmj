@@ -1623,7 +1623,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.youtube.com\/embed\/BCoNDTeAjbk"
                         }, 
                         {
                          "name":"openWebsitePolicy",
