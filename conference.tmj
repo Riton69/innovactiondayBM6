@@ -574,6 +574,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/makerslab.em-lyon.com\/#!"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
